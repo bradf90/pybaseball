@@ -1,8 +1,7 @@
 import os
 import pathlib
 from typing import Optional
-
-from . import file_utils
+import file_utils
 from ..datahelpers import singleton
 
 
